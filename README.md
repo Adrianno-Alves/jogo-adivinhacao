@@ -39,8 +39,11 @@ O jogo termina quando o jogador acerta o número.
 ## O que aprendi
 
 -Uso de bibliotecas (import random)
+
 -Estruturas de repetição (while)
+
 -Estruturas condicionais (if/else)
+
 -Manipulação de variáveis e contadores
 
 ---
@@ -48,5 +51,7 @@ O jogo termina quando o jogador acerta o número.
 ## Próximos passos
 
 -Adicionar níveis de dificuldade (fácil, médio, difícil)
+
 -Limitar número de tentativas
+
 -Criar versão em interface gráfica (Tkinter ou PyGame)
