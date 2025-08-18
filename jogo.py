@@ -11,14 +11,14 @@ tentativas = 0
 acertou = False
 
 while not acertou:
-  palpite = int(imput("Digite seu palpite: ")
+  palpite = int(input("Digite seu palpite: ")
   tentativas += 1
 
   if palpite == numero_secreto:
     print(f"  Parabens! Vece acertou o numero {numero_secreto} em {tentativas} tentativas.")
     acertou = True
-  elif palpite < numer_secreto:
-    print("O numero é MAIOR. Tente novamente!)
+  elif palpite < numero_secreto:
+    print("O numero é MAIOR. Tente novamente!")
           else:
     print("O numero é MENOR. Tente novamente!")
 if __name__ == "__main__":
