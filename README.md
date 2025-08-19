@@ -20,10 +20,13 @@ O jogo termina quando o jogador acerta o número.
 1. Salve  arquivo do jogo em uma pasta
 
 2. Abra o terminal ou prompt de comandos
+
    -No Windows: pressione Win + R, digite cmd e dê Enter.
+
    -No Mac: abra o app "Terminal".
+
    -No Linux: abra o terminal como de costume.
-3. Navegue até a pasta onde está o arquivo jogo.py:
+4. Navegue até a pasta onde está o arquivo jogo.py:
    -No Prompt de Comando, use o comando cd para navegar até a pasta onde o arquivo jogo.py está salvo. Por exemplo:
    code
    ``` dash
