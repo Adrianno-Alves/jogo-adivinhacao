@@ -17,23 +17,13 @@ O jogo termina quando o jogador acerta o número.
 ---
 
 ## ▶️ Como executar o projeto
-1. Certifique-se de ter o **Python** instalado em sua máquina.  
-   - Para verificar, abra o terminal e digite:
-     ```bash
-     python --version
-     ```
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com/AdriannoAlves/jogo-adivinhacao.git
+1. Salve  arquivo do jogo em uma pasta
 
-3. Acesse a pasta do projeto:
-   ```bash
-   cd jogo-adivinhacao
-
-4. Execute o jogo:
-   ```bash
-   python jogo.py
-
+2. Abra o terminal ou prompt de comandos
+   -No Windows: pressione Win + R, digite cmd e dê Enter.
+   -No Mac: abra o app "Terminal".
+   -No Linux: abra o terminal como de costume.
+3. Navegue até a pasta onde está o arquivo jogo.py:
 ---
 
 ## O que aprendi
