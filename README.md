@@ -1,6 +1,6 @@
 # 🎲 Jogo da Adivinhação em Python
 
-Este é um projeto simples em Python feito para praticar **lógica de programação**, **laços de repetição** e **condicionais**.
+Este foi o meu primeiro projeto em Python feito para praticar **lógica de programação**, **laços de repetição** e **condicionais**.
 
 ---
 
