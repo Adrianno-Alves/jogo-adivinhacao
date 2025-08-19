@@ -24,6 +24,17 @@ O jogo termina quando o jogador acerta o número.
    -No Mac: abra o app "Terminal".
    -No Linux: abra o terminal como de costume.
 3. Navegue até a pasta onde está o arquivo jogo.py:
+   -No Prompt de Comando, use o comando cd para navegar até a pasta onde o arquivo jogo.py está salvo. Por exemplo:
+   code
+   ``` dash
+   cd C:\Users\SeuUsuario\Documentos
+   ```
+   (Troque pelo caminho correto da sua pasta)
+5. Execute o programa:
+   code
+   ```dash
+   python jogo.py
+   ```
 ---
 
 ## O que aprendi
