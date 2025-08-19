@@ -22,3 +22,4 @@ def jogo():
 
 if __name__ == "__main__":
     jogo()
+    input("Pressione Enter para sair...")
